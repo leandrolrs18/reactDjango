@@ -7,7 +7,6 @@ import Loader from '../components/Loader'
 import Message from '../components/Message'
 import { getUserDetails, updateUserProfile } from '../actions/userActions'
 import { USER_UPDATE_PROFILE_RESET } from '../constants/userConstants'
-import NavTabsBB from '../components/NavTabsBB'
 import EmpresaCreate from '../components/EmpresaCreate'
 import { saveEmpresa, listEmpresas, deleteEmpresa } from '../actions/userActions'
 
